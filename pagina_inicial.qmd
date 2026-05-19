@@ -71,7 +71,7 @@ publicacoes_recentes <- data.frame(
   Ano = c(2025, 2025),
   Titulo = c(
     "Análise de Progressão em Cursos Modulares via Cadeias de Markov",
-    "Modelagem de Séries Temporais com grande variabilidade"),
+    "Modelagem de Séries Temporais - Alta Variabilidade"),
   Journal = c("EMPA", "Disciplina Econometria"),
   Impacto = NA
 )
