@@ -1,19 +1,19 @@
 ---
-title: "Prof. Pedro M. Almeida-Junior"
-subtitle: "Professor & Pesquisador | Departamento de Estatística | UEPB"
+title: "Túlio Herculano"
+subtitle: "Estatistico & Pesquisador | Departamento de Estatística | UEPB"
 image: figuras/profile2.jpg
 about:
   template: jolla
   links:
     - icon: linkedin
       text: Linkedin
-      href: https://www.linkedin.com/in/seu-usuario/
+      href: https://www.linkedin.com/in/t%C3%BAlio-herculano-a42931191/
     - icon: github
       text: Github
-      href: https://github.com/seu-usuario
+      href: https://github.com/tulio0097
     - icon: envelope
       text: Email
-      href: mailto:seu-email
+      href: mailto:herculano.tulio@gmail.com
 format:
   html:
     css: styles.css
@@ -23,7 +23,7 @@ format:
 
 ## Sobre mim
 
-Sou professor e pesquisador no Departamento de Estatística da Universidade Estadual da Paraíba (UEPB). Atuo também como Estatístico/Cientista de dados na Capgemini Brasil. Gosto de desenvolver pesquisas nas áreas de Regressão e Séries Temporais. Também gosto de atuar no mercado de trabalho desenvolvendo modelos de *Machine Learning*  no setor bancário. 
+Sou professor e pesquisador no Departamento de Estatística da Universidade Estadual da Paraíba (UEPB), mais especificamente no Programa de Pós-Graduação em Desenvolvimento Regional. Gosto de desenvolver pesquisas nas áreas de Séries Temporais e Processos Estocásticos. Também gosto de atuar no mercado de trabalho desenvolvendo modelos de *Machine Learning*. 
 
 ### Áreas de Interesse
 
@@ -35,28 +35,24 @@ Sou professor e pesquisador no Departamento de Estatística da Universidade Esta
 <span>Ciência de Dados</span>
 :::
 
-::: {.areas}
-<span>Sensoriamento Remoto (SAR)</span>
-<span>Estatística Espacial</span>
-:::
 
 ### Formação
 
 ::: {.grid}
 
 ::: {.g-col-4}
-**PhD em Estatística**  
-UFPE | 2021
+**Bacharelando em Estatística**  
+UEPB | 2027.1
 :::
 
 ::: {.g-col-4}
-**Mestrado em Estatística**  
-UFPE | 2016
+**Cientista de Dados**  
+ASN.Rocks | 2024
 :::
 
 ::: {.g-col-4}
-**Bacharelado em Estatística**  
-UFPB | 2014
+**Aprendendo Estatística Divertidamente**  
+ASN.Rocks | 2019
 :::
 
 :::
@@ -72,13 +68,11 @@ library(dplyr)
 
 # Dados das publicações recentes (você pode carregar de um CSV)
 publicacoes_recentes <- data.frame(
-  Ano = c(2023, 2022, 2021),
+  Ano = c(2025, 2025),
   Titulo = c(
-    "Generalized gamma ARMA process for synthetic aperture radar amplitude and intensity data",
-    "K-Bessel regression model for speckled data", 
-    "ARMA process for speckled data"
-  ),
-  Journal = c("Environmetrics", "JAS", "JSCS"),
+    "Análise de Progressão em Cursos Modulares via Cadeias de Markov",
+    "Modelagem de Séries Temporais com grande variabilidade"),
+  Journal = c("EMPA", "Disciplina Econometria"),
   Impacto = NA
 )
 
