@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Sobre"
 ---
 
-About this site
+Este site é um portfólio pessoal criado para apresentar minhas habilidades, experiências e projetos relacionados à estatística e ciência de dados. Ele serve como uma plataforma para compartilhar meu trabalho, destacar minhas conquistas e conectar-me com outros profissionais da área. Aqui, você encontrará informações sobre minha formação acadêmica, projetos de pesquisa, publicações e outras atividades relevantes. O objetivo é fornecer uma visão abrangente do meu percurso profissional e das minhas contribuições para a comunidade científica.

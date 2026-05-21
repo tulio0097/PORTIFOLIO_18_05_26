@@ -2,7 +2,7 @@
 title: "Disciplinas"
 ---
 
-## Consultoria Estatística (2026.1 - Noite)
+## Séries Temporais (2025.2 - Noite)
 
 
 ::: {.panel-tabset}
@@ -13,14 +13,14 @@ title: "Disciplinas"
 
 **Horário:** Seg (18:00-20:00) | Qua (20:00-22:00)
 
-**Sala:** Seg (A-112p - CCT - Bloco A) e Qua (C-205p - CCT - Bloco C)
+**Sala:** Seg (A-100p - CCT - Bloco A) e Qua (C-200p - CCT - Bloco C)
 
 
 ## 📈 Materiais/Links
 
 ### Repositório do projeto
 
-- [Repositório](https://github.com/pedroallmeiida/consultoria_estatistica)
+- [Repositório](https://github.com/pedroallmeiida/trabalho_series_temporais_02)
 
 :::
 

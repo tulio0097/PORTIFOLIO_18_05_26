@@ -7,21 +7,21 @@ format:
 
 ::: {.project}
 
-### 📊 Processos G0-ARMA e KB-ARMA aplicados ao índice de vegetação RVI
+### 📊 Análise Espacial do Cariri Oriental um Estudo das Variáveis Climáticas, Ambientais e indicadores Socioeconômicos
 
-**Financiador:** CNPq – PIBIC  
+**Financiador:** FAPESQ – PIBIC  
 **Período:** 2025–2026  
-**Coordenação:** Prof. Dr. Pedro M. Almeida-Junior  
+**Coordenação:** Prof. Dr. Ângela Maria Cavalcanti Ramalho 
 
 **Objetivo**  
-Desenvolver modelos G0-ARMA e KB-ARMA para predição de índices de vegetação RVI em dados SAR.
+Compreender a dinâmica de clima e socioeconomica do cariri oriental a partir de variáveis climáticas, ambientais e alguns indicadores socioeconômicos.
 
 **Equipe**
-- Prof. Dr. Pedro M. Almeida-Junior  
-- Elizeu Silva Medeiros  
+- Prof. Dr. Ângela Maria Cavalcanti Ramalho  
+- Túlio Herculano Silva Lima
 
 **Resultados Esperados**
 - Submissão de 1 artigo para periódico internacional  
 
-:::
-
+**Repositório Git**
+- [GitHub - Projeto Cariri Oriental](https://github.com/tulio0097/PIBIC_ANALISE_CLIMATICA)

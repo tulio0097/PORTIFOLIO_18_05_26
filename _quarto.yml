@@ -5,7 +5,7 @@ project:
 
 
 website:
-  title: "Consultoria Estatistica"
+  title: <i class="bi bi-graph-up-arrow"></i>
   description: "Site da disciplina de consultoria 2026"
   
   navbar:
@@ -20,6 +20,8 @@ website:
         menu:
         - text: "Consultoria Estatística"
           file: dis_consultoria.qmd
+        - text: "Séries Temporais"
+          file: dis_series_temporais.qmd  
       - text: "CV"
         file: cv.qmd
       - text: "Contato"

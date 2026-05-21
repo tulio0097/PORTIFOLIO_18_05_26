@@ -23,7 +23,7 @@ format:
 
 ## Sobre mim
 
-Sou professor e pesquisador no Departamento de Estatística da Universidade Estadual da Paraíba (UEPB), mais especificamente no Programa de Pós-Graduação em Desenvolvimento Regional. Gosto de desenvolver pesquisas nas áreas de Séries Temporais e Processos Estocásticos. Também gosto de atuar no mercado de trabalho desenvolvendo modelos de *Machine Learning*. 
+Sou graduando e pesquisador pela Universidade Estadual da Paraíba (UEPB), mais especificamente no Programa de Pós-Graduação em Desenvolvimento Regional. Gosto de desenvolver pesquisas nas áreas de Séries Temporais e Processos Estocásticos. Também gosto de atuar no mercado de trabalho desenvolvendo modelos de *Machine Learning*. 
 
 ### Áreas de Interesse
 
@@ -46,7 +46,7 @@ UEPB | 2027.1
 :::
 
 ::: {.g-col-4}
-**Cientista de Dados**  
+**Jedi - Cientista de Dados**  
 ASN.Rocks | 2024
 :::
 
@@ -71,7 +71,7 @@ publicacoes_recentes <- data.frame(
   Ano = c(2025, 2025),
   Titulo = c(
     "Análise de Progressão em Cursos Modulares via Cadeias de Markov",
-    "Modelagem de Séries Temporais - Alta Variabilidade"),
+    "Modelagem de Séries Temporais - Arrecadação Líquida da Previdência Social do Brasil"),
   Journal = c("EMPA", "Disciplina Econometria"),
   Impacto = NA
 )

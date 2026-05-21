@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "pagina_inicial.html",
+    "href": "pagina_inicial.html",
+    "title": "Túlio Herculano",
+    "section": "",
+    "text": "Sou graduando e pesquisador pela Universidade Estadual da Paraíba (UEPB), mais especificamente no Programa de Pós-Graduação em Desenvolvimento Regional. Gosto de desenvolver pesquisas nas áreas de Séries Temporais e Processos Estocásticos. Também gosto de atuar no mercado de trabalho desenvolvendo modelos de Machine Learning.\n\n\n\nEstatística Aplicada Séries Temporais Machine Learning Ciência de Dados\n\n\n\n\n\n\nBacharelando em Estatística\nUEPB | 2027.1\n\n\nJedi - Cientista de Dados\nASN.Rocks | 2024\n\n\nAprendendo Estatística Divertidamente\nASN.Rocks | 2019"
+  },
+  {
+    "objectID": "pagina_inicial.html#sobre-mim",
+    "href": "pagina_inicial.html#sobre-mim",
+    "title": "Túlio Herculano",
+    "section": "",
+    "text": "Sou graduando e pesquisador pela Universidade Estadual da Paraíba (UEPB), mais especificamente no Programa de Pós-Graduação em Desenvolvimento Regional. Gosto de desenvolver pesquisas nas áreas de Séries Temporais e Processos Estocásticos. Também gosto de atuar no mercado de trabalho desenvolvendo modelos de Machine Learning.\n\n\n\nEstatística Aplicada Séries Temporais Machine Learning Ciência de Dados\n\n\n\n\n\n\nBacharelando em Estatística\nUEPB | 2027.1\n\n\nJedi - Cientista de Dados\nASN.Rocks | 2024\n\n\nAprendendo Estatística Divertidamente\nASN.Rocks | 2019"
+  },
+  {
     "objectID": "projeto2.html",
     "href": "projeto2.html",
     "title": "Projetos de Pesquisa",
@@ -11,7 +25,7 @@
     "href": "projects.html",
     "title": "Projetos de Pesquisa",
     "section": "",
-    "text": "CNPq – PIBIC (2025–2026)\nModelos para predição de índices de vegetação em dados SAR.\n\n\n\nCNPq – PIBIC (2025–2026)\nDesenvolvimento de classificadores baseados em divergências.",
+    "text": "FAPESQ – PIBIC (2025–2026)\nAnálise Espacial do Cariri Oriental um Estudo das Variáveis Climáticas, Ambientais e indicadores Socioeconômicos.",
     "crumbs": [
       "Início",
       "Pesquisa",
@@ -23,7 +37,7 @@
     "href": "projects.html#projetos-em-andamento",
     "title": "Projetos de Pesquisa",
     "section": "",
-    "text": "CNPq – PIBIC (2025–2026)\nModelos para predição de índices de vegetação em dados SAR.\n\n\n\nCNPq – PIBIC (2025–2026)\nDesenvolvimento de classificadores baseados em divergências.",
+    "text": "FAPESQ – PIBIC (2025–2026)\nAnálise Espacial do Cariri Oriental um Estudo das Variáveis Climáticas, Ambientais e indicadores Socioeconômicos.",
     "crumbs": [
       "Início",
       "Pesquisa",
@@ -31,60 +45,32 @@
     ]
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
+    "objectID": "dis_consultoria.html",
+    "href": "dis_consultoria.html",
+    "title": "Disciplinas",
     "section": "",
-    "text": "Nome: Pedro Monteiro de Almeida Junior\nLattes: http://lattes.cnpq.br/\nORCID: https://orcid.org/\nLinkedin: https://www.linkedin.com/\nEmail: pedroalmeida@servidor.uepb.edu.br"
+    "text": "📊 Informações📈 Materiais/Links\n\n\nCódigo: GRAD.00683| Créditos: 4 | Carga Horária: 60h\nHorário: Seg (18:00-20:00) | Qua (20:00-22:00)\nSala: Seg (A-112p - CCT - Bloco A) e Qua (C-205p - CCT - Bloco C)\n\n\n\n\n\nRepositório"
   },
   {
-    "objectID": "cv.html#identificação",
-    "href": "cv.html#identificação",
-    "title": "Curriculum Vitae",
+    "objectID": "dis_consultoria.html#consultoria-estatística-2026.1---noite",
+    "href": "dis_consultoria.html#consultoria-estatística-2026.1---noite",
+    "title": "Disciplinas",
     "section": "",
-    "text": "Nome: Pedro Monteiro de Almeida Junior\nLattes: http://lattes.cnpq.br/\nORCID: https://orcid.org/\nLinkedin: https://www.linkedin.com/\nEmail: pedroalmeida@servidor.uepb.edu.br"
-  },
-  {
-    "objectID": "cv.html#formação-acadêmica",
-    "href": "cv.html#formação-acadêmica",
-    "title": "Curriculum Vitae",
-    "section": "Formação Acadêmica",
-    "text": "Formação Acadêmica\n\nPós-Graduação\n2018-2021: Doutorado em Estatística\nUniversidade Federal de Pernambuco (UFPE).\nTítulo: Processamento de Imagens SAR por estruturas aproximadas do tipo ARMA.\nOrientador: Prof. Dr. Abraão David Costa do Nascimento\n2014-2016: Mestrado em Estatística\nUniversidade Federal de Pernambuco (UFPE)\nTítulo: Teoria da informação aplicadas a modelos ARMA: Testes para identificação e quantificação de overfitting\nOrientador: Prof. Dr. Abraão David Costa do Nascimento\n\n\nGraduação\n2011-2014: Bacharelado em Estatística\nUniversidade Federal da Paraíba (UFPB)"
-  },
-  {
-    "objectID": "cv.html#experiência-profissional",
-    "href": "cv.html#experiência-profissional",
-    "title": "Curriculum Vitae",
-    "section": "Experiência Profissional",
-    "text": "Experiência Profissional\n2022-atual: Estatístico/Cientista de Dados | Coordenador de Soluções Digitais\nCapgemini - Experiência do usuário - Projeto Banco do Brasil.\n2025-atual: Professor Adjunto A\nUEPB - Departamento de Estatística\n2021-2023: Professor Substituto\nUEPB - Departamento de Estatística\n2021-2022: Estatístico/Cientista de Dados\nHARTB - Marketing Analytics | Sistemas de recomendação - Projeto Casas Bahia\n2016-2017: Estatístico/Cientista de Dados\nNeurotech - Credit Score - Diversos Clientes"
-  },
-  {
-    "objectID": "cv.html#métricas-de-produção",
-    "href": "cv.html#métricas-de-produção",
-    "title": "Curriculum Vitae",
-    "section": "Métricas de Produção",
-    "text": "Métricas de Produção\n\n\nWarning: package 'DT' was built under R version 4.5.3"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "text": "📊 Informações📈 Materiais/Links\n\n\nCódigo: GRAD.00683| Créditos: 4 | Carga Horária: 60h\nHorário: Seg (18:00-20:00) | Qua (20:00-22:00)\nSala: Seg (A-112p - CCT - Bloco A) e Qua (C-205p - CCT - Bloco C)\n\n\n\n\n\nRepositório"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contato",
     "section": "",
-    "text": "Universidade Estadual da Paraíba\nDepartamento de Estatística - CCT Campina Grande, Paraíba.\n\n\n\nE-mail: [pedroalmeida@servidor.uepb.edu.br]\nHorário de Atendimento:\nTerças-feiras: 14:00-17:00\nQuintas-feiras: 14:00-17:00"
+    "text": "E-mail: [herculano.tulio@gmail.com]\nHorário de Atendimento:\nSegundas-feiras: 13:00-17:00\nSextas-feiras: 13:00-17:00"
   },
   {
     "objectID": "contact.html#informações-de-contato",
     "href": "contact.html#informações-de-contato",
     "title": "Contato",
     "section": "",
-    "text": "Universidade Estadual da Paraíba\nDepartamento de Estatística - CCT Campina Grande, Paraíba.\n\n\n\nE-mail: [pedroalmeida@servidor.uepb.edu.br]\nHorário de Atendimento:\nTerças-feiras: 14:00-17:00\nQuintas-feiras: 14:00-17:00"
+    "text": "E-mail: [herculano.tulio@gmail.com]\nHorário de Atendimento:\nSegundas-feiras: 13:00-17:00\nSextas-feiras: 13:00-17:00"
   },
   {
     "objectID": "contact.html#redes-sociais-e-acadêmicas",
@@ -101,38 +87,66 @@
     "text": "Localização\n\n\nWarning: package 'leaflet' was built under R version 4.5.3\n\n\nWarning: package 'tidygeocoder' was built under R version 4.5.3"
   },
   {
-    "objectID": "dis_consultoria.html",
-    "href": "dis_consultoria.html",
-    "title": "Disciplinas",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Sobre",
     "section": "",
-    "text": "📊 Informações✏️ Materiais/ListasExercícios\n\n\nCódigo: GRAD.00683| Créditos: 4 | Carga Horária: 60h\nHorário: Seg (18:00-20:00) | Qua (20:00-22:00)\nSala: Seg (A-112p - CCT - Bloco A) e Qua (C-205p - CCT - Bloco C)\n\n\n\n\n\nApresentação do curso\nIntrodução ao Github\nIntrodução ao Python\nEntendimento de Necessidades\n\n\n\n\n\nTutorial VS Code\nTemplate Entrevista\nTemplate Briefing"
+    "text": "Este site é um portfólio pessoal criado para apresentar minhas habilidades, experiências e projetos relacionados à estatística e ciência de dados. Ele serve como uma plataforma para compartilhar meu trabalho, destacar minhas conquistas e conectar-me com outros profissionais da área. Aqui, você encontrará informações sobre minha formação acadêmica, projetos de pesquisa, publicações e outras atividades relevantes. O objetivo é fornecer uma visão abrangente do meu percurso profissional e das minhas contribuições para a comunidade científica."
   },
   {
-    "objectID": "dis_consultoria.html#consultoria-estatística-2026.1---noite",
-    "href": "dis_consultoria.html#consultoria-estatística-2026.1---noite",
-    "title": "Disciplinas",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "📊 Informações✏️ Materiais/ListasExercícios\n\n\nCódigo: GRAD.00683| Créditos: 4 | Carga Horária: 60h\nHorário: Seg (18:00-20:00) | Qua (20:00-22:00)\nSala: Seg (A-112p - CCT - Bloco A) e Qua (C-205p - CCT - Bloco C)\n\n\n\n\n\nApresentação do curso\nIntrodução ao Github\nIntrodução ao Python\nEntendimento de Necessidades\n\n\n\n\n\nTutorial VS Code\nTemplate Entrevista\nTemplate Briefing"
+    "text": "Nome: Túlio Herculano Silva Lima\nLattes: http://lattes.cnpq.br/\nLinkedin: https://www.linkedin.com/\nEmail: herculano.tulio@gmail.com"
   },
   {
-    "objectID": "pagina_inicial.html",
-    "href": "pagina_inicial.html",
-    "title": "Túlio Herculano",
+    "objectID": "cv.html#identificação",
+    "href": "cv.html#identificação",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "Sou professor e pesquisador no Departamento de Estatística da Universidade Estadual da Paraíba (UEPB), mais especificamente no Programa de Pós-Graduação em Desenvolvimento Regional. Gosto de desenvolver pesquisas nas áreas de Séries Temporais e Processos Estocásticos. Também gosto de atuar no mercado de trabalho desenvolvendo modelos de Machine Learning.\n\n\n\nEstatística Aplicada Séries Temporais Machine Learning Ciência de Dados\n\n\n\n\n\n\nBacharelando em Estatística\nUEPB | 2027.1\n\n\nCientista de Dados\nASN.Rocks | 2024\n\n\nAprendendo Estatística Divertidamente\nASN.Rocks | 2019"
+    "text": "Nome: Túlio Herculano Silva Lima\nLattes: http://lattes.cnpq.br/\nLinkedin: https://www.linkedin.com/\nEmail: herculano.tulio@gmail.com"
   },
   {
-    "objectID": "pagina_inicial.html#sobre-mim",
-    "href": "pagina_inicial.html#sobre-mim",
-    "title": "Túlio Herculano",
-    "section": "",
-    "text": "Sou professor e pesquisador no Departamento de Estatística da Universidade Estadual da Paraíba (UEPB), mais especificamente no Programa de Pós-Graduação em Desenvolvimento Regional. Gosto de desenvolver pesquisas nas áreas de Séries Temporais e Processos Estocásticos. Também gosto de atuar no mercado de trabalho desenvolvendo modelos de Machine Learning.\n\n\n\nEstatística Aplicada Séries Temporais Machine Learning Ciência de Dados\n\n\n\n\n\n\nBacharelando em Estatística\nUEPB | 2027.1\n\n\nCientista de Dados\nASN.Rocks | 2024\n\n\nAprendendo Estatística Divertidamente\nASN.Rocks | 2019"
+    "objectID": "cv.html#formação-acadêmica",
+    "href": "cv.html#formação-acadêmica",
+    "title": "Curriculum Vitae",
+    "section": "Formação Acadêmica",
+    "text": "Formação Acadêmica\n\nGraduação\n2019-2027.1: Bacharelado em Estatística\nUniversidade Estadual da Paraíba (UEPB)"
+  },
+  {
+    "objectID": "cv.html#experiência-profissional",
+    "href": "cv.html#experiência-profissional",
+    "title": "Curriculum Vitae",
+    "section": "Experiência Profissional",
+    "text": "Experiência Profissional\n2026-atual: Estatístico/Cientista de Dados | Analista\nFAPESQ - Analise climatica e socioeconômica - Programa de Desenvolvimento Regional.\n2024-2025: Estatístico/Cientista de Dados\nASN.Rocks - Data Analytics | Corretor e Monitor do curso - Projeto IDA"
+  },
+  {
+    "objectID": "cv.html#métricas-de-produção",
+    "href": "cv.html#métricas-de-produção",
+    "title": "Curriculum Vitae",
+    "section": "Métricas de Produção",
+    "text": "Métricas de Produção"
   },
   {
     "objectID": "projeto1.html",
     "href": "projeto1.html",
     "title": "Projetos de Pesquisa",
     "section": "",
-    "text": "📊 Processos G0-ARMA e KB-ARMA aplicados ao índice de vegetação RVI\nFinanciador: CNPq – PIBIC\nPeríodo: 2025–2026\nCoordenação: Prof. Dr. Pedro M. Almeida-Junior\nObjetivo\nDesenvolver modelos G0-ARMA e KB-ARMA para predição de índices de vegetação RVI em dados SAR.\nEquipe - Prof. Dr. Pedro M. Almeida-Junior\n- Elizeu Silva Medeiros\nResultados Esperados - Submissão de 1 artigo para periódico internacional"
+    "text": "📊 Análise Espacial do Cariri Oriental um Estudo das Variáveis Climáticas, Ambientais e indicadores Socioeconômicos\nFinanciador: FAPESQ – PIBIC\nPeríodo: 2025–2026\nCoordenação: Prof. Dr. Ângela Maria Cavalcanti Ramalho\nObjetivo\nCompreender a dinâmica de clima e socioeconomica do cariri oriental a partir de variáveis climáticas, ambientais e alguns indicadores socioeconômicos.\nEquipe - Prof. Dr. Ângela Maria Cavalcanti Ramalho\n- Túlio Herculano Silva Lima\nResultados Esperados - Submissão de 1 artigo para periódico internacional\nRepositório Git - GitHub - Projeto Cariri Oriental"
+  },
+  {
+    "objectID": "dis_series_temporais.html",
+    "href": "dis_series_temporais.html",
+    "title": "Disciplinas",
+    "section": "",
+    "text": "📊 Informações📈 Materiais/Links\n\n\nCódigo: GRAD.00683| Créditos: 4 | Carga Horária: 60h\nHorário: Seg (18:00-20:00) | Qua (20:00-22:00)\nSala: Seg (A-100p - CCT - Bloco A) e Qua (C-200p - CCT - Bloco C)\n\n\n\n\n\nRepositório"
+  },
+  {
+    "objectID": "dis_series_temporais.html#séries-temporais-2025.2---noite",
+    "href": "dis_series_temporais.html#séries-temporais-2025.2---noite",
+    "title": "Disciplinas",
+    "section": "",
+    "text": "📊 Informações📈 Materiais/Links\n\n\nCódigo: GRAD.00683| Créditos: 4 | Carga Horária: 60h\nHorário: Seg (18:00-20:00) | Qua (20:00-22:00)\nSala: Seg (A-100p - CCT - Bloco A) e Qua (C-200p - CCT - Bloco C)\n\n\n\n\n\nRepositório"
   }
 ]
