@@ -16,6 +16,8 @@ format:
 Análise Espacial do Cariri Oriental um Estudo das Variáveis Climáticas, Ambientais e indicadores Socioeconômicos.
 :::
 
+::: {.project-grid}
+
 ::: {.project-card onclick="window.location='projeto2.html'"}
 ### 🎙️ PodCast - EstatíCast
 **Departamento de Estatística** (2025–2026)  
