@@ -1,31 +1,17 @@
 [
   {
-    "objectID": "pagina_inicial.html",
-    "href": "pagina_inicial.html",
-    "title": "Túlio Herculano",
-    "section": "",
-    "text": "Sou graduando e pesquisador pela Universidade Estadual da Paraíba (UEPB), mais especificamente no Programa de Pós-Graduação em Desenvolvimento Regional. Gosto de desenvolver pesquisas nas áreas de Séries Temporais e Processos Estocásticos. Também gosto de atuar no mercado de trabalho desenvolvendo modelos de Machine Learning.\n\n\n\nEstatística Aplicada Séries Temporais Machine Learning Ciência de Dados\n\n\n\n\n\n\nBacharelando em Estatística\nUEPB | 2027.1\n\n\nJedi - Cientista de Dados\nASN.Rocks | 2024\n\n\nAprendendo Estatística Divertidamente\nASN.Rocks | 2019"
-  },
-  {
-    "objectID": "pagina_inicial.html#sobre-mim",
-    "href": "pagina_inicial.html#sobre-mim",
-    "title": "Túlio Herculano",
-    "section": "",
-    "text": "Sou graduando e pesquisador pela Universidade Estadual da Paraíba (UEPB), mais especificamente no Programa de Pós-Graduação em Desenvolvimento Regional. Gosto de desenvolver pesquisas nas áreas de Séries Temporais e Processos Estocásticos. Também gosto de atuar no mercado de trabalho desenvolvendo modelos de Machine Learning.\n\n\n\nEstatística Aplicada Séries Temporais Machine Learning Ciência de Dados\n\n\n\n\n\n\nBacharelando em Estatística\nUEPB | 2027.1\n\n\nJedi - Cientista de Dados\nASN.Rocks | 2024\n\n\nAprendendo Estatística Divertidamente\nASN.Rocks | 2019"
-  },
-  {
     "objectID": "projeto2.html",
     "href": "projeto2.html",
-    "title": "Projetos de Pesquisa",
+    "title": "Projetos de Extensão",
     "section": "",
-    "text": "🌱 Classificadores para Séries Temporais de dados SAR\nFinanciador: CNPq – PIBIC\nPeríodo: 2025–2026\nCoordenação: Prof. Dr. Pedro M. Almeida-Junior\nObjetivo\nDesenvolver novos classificadores baseados em medidas de divergência para séries temporais em dados SAR.\nEquipe - Prof. Dr. Pedro M. Almeida-Junior\n- Ítalo Gabriel da Silva\nResultados Esperados - Submissão de 1 artigo para periódico internacional"
+    "text": "🎙️ EstatíCast\nFinanciador: FAPESQ – PIBIC\nPeríodo: 2025–2026\nCoordenação: Prof. Dr. Silvio Fernandes\nObjetivo\nConstruir um PodCast voltado para a divulgação científica da Estatística, com o intuito de popularizar a área e mostrar sua importância para a sociedade. O PodCast abordará temas como aplicações da Estatística, entrevistas com profissionais da área, e discussões sobre tendências e desafios atuais.\nEquipe - Prof. Dr. Silvio Fernandes\n- Túlio Herculano Silva Lima\nResultados Esperados - Submissão de 1 artigo para periódico internacional\n- Produção de 10 episódios do PodCast\n- Aumento do interesse pela Estatística entre estudantes e profissionais de outras áreas"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projetos de Pesquisa",
     "section": "",
-    "text": "FAPESQ – PIBIC (2025–2026)\nAnálise Espacial do Cariri Oriental um Estudo das Variáveis Climáticas, Ambientais e indicadores Socioeconômicos.",
+    "text": "FAPESQ – PIBIC (2025–2026)\nAnálise Espacial do Cariri Oriental um Estudo das Variáveis Climáticas, Ambientais e indicadores Socioeconômicos.\n\n\n\nDepartamento de Estatística (2025–2026)\nConstruir um PodCast voltado para a divulgação científica da Estatística, com o intuito de popularizar a área e mostrar sua importância para a sociedade. O PodCast abordará temas como aplicações da Estatística, entrevistas com profissionais da área, e discussões sobre tendências e desafios atuais.",
     "crumbs": [
       "Início",
       "Pesquisa",
@@ -37,7 +23,7 @@
     "href": "projects.html#projetos-em-andamento",
     "title": "Projetos de Pesquisa",
     "section": "",
-    "text": "FAPESQ – PIBIC (2025–2026)\nAnálise Espacial do Cariri Oriental um Estudo das Variáveis Climáticas, Ambientais e indicadores Socioeconômicos.",
+    "text": "FAPESQ – PIBIC (2025–2026)\nAnálise Espacial do Cariri Oriental um Estudo das Variáveis Climáticas, Ambientais e indicadores Socioeconômicos.\n\n\n\nDepartamento de Estatística (2025–2026)\nConstruir um PodCast voltado para a divulgação científica da Estatística, com o intuito de popularizar a área e mostrar sua importância para a sociedade. O PodCast abordará temas como aplicações da Estatística, entrevistas com profissionais da área, e discussões sobre tendências e desafios atuais.",
     "crumbs": [
       "Início",
       "Pesquisa",
@@ -129,13 +115,6 @@
     "text": "Métricas de Produção"
   },
   {
-    "objectID": "projeto1.html",
-    "href": "projeto1.html",
-    "title": "Projetos de Pesquisa",
-    "section": "",
-    "text": "📊 Análise Espacial do Cariri Oriental um Estudo das Variáveis Climáticas, Ambientais e indicadores Socioeconômicos\nFinanciador: FAPESQ – PIBIC\nPeríodo: 2025–2026\nCoordenação: Prof. Dr. Ângela Maria Cavalcanti Ramalho\nObjetivo\nCompreender a dinâmica de clima e socioeconomica do cariri oriental a partir de variáveis climáticas, ambientais e alguns indicadores socioeconômicos.\nEquipe - Prof. Dr. Ângela Maria Cavalcanti Ramalho\n- Túlio Herculano Silva Lima\nResultados Esperados - Submissão de 1 artigo para periódico internacional\nRepositório Git - GitHub - Projeto Cariri Oriental"
-  },
-  {
     "objectID": "dis_series_temporais.html",
     "href": "dis_series_temporais.html",
     "title": "Disciplinas",
@@ -148,5 +127,26 @@
     "title": "Disciplinas",
     "section": "",
     "text": "📊 Informações📈 Materiais/Links\n\n\nCódigo: GRAD.00683| Créditos: 4 | Carga Horária: 60h\nHorário: Seg (18:00-20:00) | Qua (20:00-22:00)\nSala: Seg (A-100p - CCT - Bloco A) e Qua (C-200p - CCT - Bloco C)\n\n\n\n\n\nRepositório"
+  },
+  {
+    "objectID": "pagina_inicial.html",
+    "href": "pagina_inicial.html",
+    "title": "Túlio Herculano",
+    "section": "",
+    "text": "Sou graduando e pesquisador pela Universidade Estadual da Paraíba (UEPB), mais especificamente no Programa de Pós-Graduação em Desenvolvimento Regional. Gosto de desenvolver pesquisas nas áreas de Séries Temporais e Processos Estocásticos. Também gosto de atuar no mercado de trabalho desenvolvendo modelos de Machine Learning.\n\n\n\nEstatística Aplicada Séries Temporais Machine Learning Ciência de Dados\n\n\n\n\n\n\nBacharelando em Estatística\nUEPB | 2027.1\n\n\nJedi - Cientista de Dados\nASN.Rocks | 2024\n\n\nAprendendo Estatística Divertidamente\nASN.Rocks | 2019"
+  },
+  {
+    "objectID": "pagina_inicial.html#sobre-mim",
+    "href": "pagina_inicial.html#sobre-mim",
+    "title": "Túlio Herculano",
+    "section": "",
+    "text": "Sou graduando e pesquisador pela Universidade Estadual da Paraíba (UEPB), mais especificamente no Programa de Pós-Graduação em Desenvolvimento Regional. Gosto de desenvolver pesquisas nas áreas de Séries Temporais e Processos Estocásticos. Também gosto de atuar no mercado de trabalho desenvolvendo modelos de Machine Learning.\n\n\n\nEstatística Aplicada Séries Temporais Machine Learning Ciência de Dados\n\n\n\n\n\n\nBacharelando em Estatística\nUEPB | 2027.1\n\n\nJedi - Cientista de Dados\nASN.Rocks | 2024\n\n\nAprendendo Estatística Divertidamente\nASN.Rocks | 2019"
+  },
+  {
+    "objectID": "projeto1.html",
+    "href": "projeto1.html",
+    "title": "Projetos de Pesquisa",
+    "section": "",
+    "text": "📊 Análise Espacial do Cariri Oriental um Estudo das Variáveis Climáticas, Ambientais e indicadores Socioeconômicos\nFinanciador: FAPESQ – PIBIC\nPeríodo: 2025–2026\nCoordenação: Prof. Dr. Ângela Maria Cavalcanti Ramalho\nObjetivo\nCompreender a dinâmica de clima e socioeconomica do cariri oriental a partir de variáveis climáticas, ambientais e alguns indicadores socioeconômicos.\nEquipe - Prof. Dr. Ângela Maria Cavalcanti Ramalho\n- Túlio Herculano Silva Lima\nResultados Esperados - Submissão de 1 artigo para periódico internacional\nRepositório Git - GitHub - Projeto Cariri Oriental"
   }
 ]

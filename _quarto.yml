@@ -15,7 +15,11 @@ website:
       - text: "Início"
         file: pagina_inicial.qmd
       - text: "Projetos"
-        file: projects.qmd
+        menu:
+        - text: "Indicadores Climaticos e Socionecômicos"
+          file: projects.qmd
+        - text: "PodCast - EstatíCast"
+          file: projeto2.qmd
       - text: "Disciplinas"
         menu:
         - text: "Consultoria Estatística"
@@ -28,9 +32,9 @@ website:
         file: contact.qmd
     right:
       - icon: github
-        href: https://github.com/seu-usuario
+        href: https://github.com/tulio0097
       - icon: linkedin
-        href: https://www.linkedin.com/in/seu-usuario/
+        href: https://www.linkedin.com/in/túlio-herculano-a42931191
 
   sidebar:
     style: "docked"

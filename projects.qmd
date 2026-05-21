@@ -16,6 +16,13 @@ format:
 Análise Espacial do Cariri Oriental um Estudo das Variáveis Climáticas, Ambientais e indicadores Socioeconômicos.
 :::
 
+::: {.project-card onclick="window.location='projeto2.html'"}
+### 🎙️ PodCast - EstatíCast
+**Departamento de Estatística** (2025–2026)  
+Construir um PodCast voltado para a divulgação científica da Estatística, com o intuito de popularizar a área e mostrar sua importância para a sociedade. O PodCast abordará temas como aplicações da Estatística, entrevistas com profissionais da área, e discussões sobre tendências e desafios atuais.
+:::
+
+
 :::
 
 

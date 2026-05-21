@@ -2,7 +2,8 @@
 title: "Curriculum Vitae"
 format: 
   html: default
-  pdf: default
+  pdf: 
+    output-file: "curriculo_tulio.pdf"
 ---
 
 ## Identificação

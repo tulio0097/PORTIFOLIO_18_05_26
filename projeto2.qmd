@@ -1,5 +1,5 @@
 ---
-title: "Projetos de Pesquisa"
+title: "Projetos de Extensão"
 format:
   html:
     css: styles.css
@@ -7,20 +7,22 @@ format:
 
 ::: {.project}
 
-### 🌱 Classificadores para Séries Temporais de dados SAR
+### 🎙️ EstatíCast 
 
-**Financiador:** CNPq – PIBIC  
+**Financiador:** FAPESQ – PIBIC  
 **Período:** 2025–2026  
-**Coordenação:** Prof. Dr. Pedro M. Almeida-Junior  
+**Coordenação:** Prof. Dr. Silvio Fernandes  
 
 **Objetivo**  
-Desenvolver novos classificadores baseados em medidas de divergência para séries temporais em dados SAR.
+Construir um PodCast voltado para a divulgação científica da Estatística, com o intuito de popularizar a área e mostrar sua importância para a sociedade. O PodCast abordará temas como aplicações da Estatística, entrevistas com profissionais da área, e discussões sobre tendências e desafios atuais.
 
 **Equipe**
-- Prof. Dr. Pedro M. Almeida-Junior  
-- Ítalo Gabriel da Silva  
+- Prof. Dr. Silvio Fernandes  
+- Túlio Herculano Silva Lima  
 
 **Resultados Esperados**
 - Submissão de 1 artigo para periódico internacional  
+- Produção de 10 episódios do PodCast  
+- Aumento do interesse pela Estatística entre estudantes e profissionais de outras áreas
 
 :::
