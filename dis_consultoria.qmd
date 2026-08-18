@@ -22,5 +22,9 @@ title: "Disciplinas"
 
 - [Repositório](https://github.com/pedroallmeiida/consultoria_estatistica)
 
+### Modelo - Previsão de Churn 
+
+- [API - Aplicação](https://consultoriaestatistica-ey847kqtjbj3dmqmv6kesc.streamlit.app/)
+
 :::
 

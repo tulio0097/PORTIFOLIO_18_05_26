@@ -17,13 +17,23 @@ format:
 Construir um PodCast voltado para a divulgação científica da Estatística, com o intuito de popularizar a área e mostrar sua importância para a sociedade. O PodCast abordará temas como aplicações da Estatística, entrevistas com profissionais da área, e discussões sobre tendências e desafios atuais.
 
 **Equipe**
-- Prof. Dr. Silvio Fernandes  
-- Richard 
-- Túlio Herculano Silva Lima  
+  - Prof. Dr. Silvio Fernandes 
+  - Túlio Herculano Silva Lima   
+  - Richard 
+
+
+**Canal no YouTube:** [Estatícast no YouTube](https://www.youtube.com/@estaticast8384){target="_blank"}
 
 **Resultados Esperados**
 - Submissão de 1 artigo para periódico internacional  
 - Produção de 10 episódios do PodCast  
 - Aumento do interesse pela Estatística entre estudantes e profissionais de outras áreas
+
+
+**Convidados que entrevistei**
+
+- [Episódio 12 - Denilson Oliveira](https://www.youtube.com/watch?v=OtdiO65ytNU&t=00s){target="_blank"}
+
+- [Episódio 13 - Ricardo Olinda](https://www.youtube.com/watch?v=FjoNEfYzkl4&t=00s){target="_blank"}
 
 :::

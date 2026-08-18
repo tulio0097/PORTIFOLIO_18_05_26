@@ -1,0 +1,26 @@
+---
+title: "Análise de Churn"
+format:
+  html:
+    css: styles.css
+---
+
+::: {.project}
+
+### 📊 Análise Estatística - Churn por meio de técnicas de ML
+
+**Objetivo**  
+Compreender a dinâmica de comportamento de clientes e identificar padrões que possam indicar a probabilidade de cancelamento de serviços, utilizando técnicas de Machine Learning e Estatística.
+
+**Equipe**
+- Túlio Herculano Silva Lima
+
+- Eloiza 
+
+- Richard 
+
+**Resultados Esperados**
+- Submissão de 1 artigo para periódico internacional  
+
+**Repositório Git**
+- [API - Aplicação Web](https://consultoriaestatistica-ey847kqtjbj3dmqmv6kesc.streamlit.app/)

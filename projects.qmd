@@ -24,6 +24,13 @@ Análise Espacial do Cariri Oriental um Estudo das Variáveis Climáticas, Ambie
 Construir um PodCast voltado para a divulgação científica da Estatística, com o intuito de popularizar a área e mostrar sua importância para a sociedade. O PodCast abordará temas como aplicações da Estatística, entrevistas com profissionais da área, e discussões sobre tendências e desafios atuais.
 :::
 
+::: {.project-grid}
+
+::: {.project-card onclick="window.location='projeto3.html'"}
+### 📈 Previsão de Churn
+**Consultoria – Kaggle** (2025–2026)  
+Análise de dados de clientes para prever a probabilidade de cancelamento de serviços, utilizando técnicas de Machine Learning e Estatística.
+:::
 
 :::
 
